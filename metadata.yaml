@@ -1,0 +1,41 @@
+_repo: Dracula_45839
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45839-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Stoker, Bram
+    alias: Stoker, Abraham
+    birthdate: 1847
+    deathdate: 1912
+    gutenberg_agent_id: '190'
+    url: http://www.gutenberg.org/2009/agents/190
+    wikipedia: http://en.wikipedia.org/wiki/Bram_Stoker
+description: During a business visit to Count Dracula's castle in Transylvania, a
+  young English solicitor finds himself at the center of a series of horrifying incidents.
+  Jonathan Harker is attacked by three phantom women, observes the Count's transformation
+  from human to bat form, and discovers puncture wounds on his own neck that seem
+  to have been made by teeth. Harker returns home upon his escape from Dracula's grim
+  fortress, but a friend's strange malady - involving sleepwalking, inexplicable blood
+  loss, and mysterious throat wounds - initiates a frantic vampire hunt. The popularity
+  of Bram Stoker's 18
+gutenberg_issued: '2014-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45839'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Transylvania (Romania) -- Fiction'
+- !lcsh 'Dracula, Count (Fictitious character) -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Gothic fiction (Literary genre)'
+- !lcsh 'Horror tales'
+- !lcsh 'Whitby (England) -- Fiction'
+- !lcsh 'Vampires -- Fiction'
+- !lcsh 'Epistolary fiction'
+title: Dracula
+url: http://www.gutenberg.org/ebooks/45839
